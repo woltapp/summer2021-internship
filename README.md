@@ -2,13 +2,11 @@
 
 **Preliminary Assignment for Engineering Positions**
 
-This is a mandatory assignment for Wolt's engineering intern positions. Read more about our summer jobs in 2021 here.
-
-**Please don't start coding this assignment before this line has been removed**
+This is a mandatory assignment for Wolt's engineering intern positions. 
 
 ## In short
 - Select either the frontend **OR** backend version of this assignment. 
-- Write some code. When you are ready, leave us a frontend application **[here](https://wolt.com/fi/jobs)** or a backend application **[here](https://wolt.com/fi/jobs)**. Put your code (as a zip) to Google Drive, Dropbox, OneDrive (or similar) and send us a link in the application form. **Remember to check permissions!** If we cannot access the file, we cannot review your code. 
+- Write some code. When you are ready, leave us a frontend application **[here](https://wolt.com/en/jobs/posting/743999731488093)** or a backend application **[here](https://wolt.com/en/jobs/posting/743999731487668)**. Put your code (as a zip) to Google Drive, Dropbox, OneDrive (or similar) and send us a link in the application form. **Remember to check permissions!** If we cannot access the file, we cannot review your code. 
 - That's it! We will get back to you.
 
 ## Overview
