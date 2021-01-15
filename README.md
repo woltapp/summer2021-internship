@@ -47,7 +47,7 @@ Example:
 - **popularity**: the higher the number, the more popular the restaurant is in Wolt app (type: a float between 0-1, where 1 is the - most popular restaurant)
 
 ## Backend assignment
-*restaurants.json* in the repository contains one restaurants from the Helsinki area. 
+*restaurants.json* in the repository contains one hundred restaurants from the Helsinki area. 
 
 Your task is to create an **API endpoint** */discovery* that takes coordinates of the customer as an input and then **returns a page (JSON response)** containing *most popular, newest and nearby* restaurants (based on given coordinates). 
 
