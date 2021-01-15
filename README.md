@@ -2,7 +2,7 @@
 
 **Preliminary Assignment for Engineering Positions**
 
-This is a mandatory assignment for Wolt's engineering intern positions. 
+Welcome! We are delighted to see you applying. Now is your time to shine. 
 
 ## In short
 - Select either the frontend **OR** backend version of this assignment. 
