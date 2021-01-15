@@ -125,7 +125,7 @@ There are four rules for rendering the page:
 
 Otherwise you can freely decide everything, from the layout to image sizes.
 
-Instead of real images we are using a technology known as BlurHash. This algorithm for representing images with small char strings was created by Wolt's iOS engineer Dag Ågren in 2017. You can use [react-blurhash](https://github.com/woltapp/react-blurhash) or [Blurhash TypeScript](https://github.com/woltapp/blurhash/tree/master/TypeScript) library when rendering these values (..if you want to save some development time 😉). Blurhash values in the *discovery_page.json* were generated from 480x270 (16:9) images.
+Instead of real images we are using a technology known as BlurHash. This algorithm for representing images with a few dozen chars was created by Wolt's iOS engineer Dag Ågren in 2017. You can use [react-blurhash](https://github.com/woltapp/react-blurhash) or [Blurhash TypeScript](https://github.com/woltapp/blurhash/tree/master/TypeScript) library when rendering these values (..if you want to save some development time 😉). Blurhash values in the *discovery_page.json* were generated from 480x270 (16:9) images.
 
 The image below is **just an example** of what the output could look like. In this version each carousel has max. 3 restaurants visible at once. 
 
